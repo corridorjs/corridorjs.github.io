@@ -1,0 +1,30 @@
+body {
+  font-size: 110%;
+}
+
+img {
+  margin: 15px 0;
+  width: 100%;
+}
+
+article {
+  margin: 20px auto;
+}
+
+.sponsorship-pricing {
+  padding-left: 0;
+}
+
+.sponsorship-pricing li {
+  display: inline-block;
+  text-align: center;
+  width: 32%;
+}
+
+.sponsorship-pricing small {
+  padding: 3px 0;
+}
+
+.sponsorship-pricing strong {
+  font-size: 200%;
+}
