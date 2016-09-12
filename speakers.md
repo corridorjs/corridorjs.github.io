@@ -13,7 +13,7 @@ Just submit a pull request to [index.html]
 That is up to you :)
 
 ## What do Speakers get?
-- 1 regular BrooklynJS ticket ($10) so your guest don't have to hassle to get ticket
+- 1 regular CorridorJS ticket ($10) so your guest don't have to hassle to get ticket
 - 10 min to present what you are excited about in front of our group.
 - (travel assistance for out of town speakers**)
 
