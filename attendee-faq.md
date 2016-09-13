@@ -11,7 +11,7 @@ The event will have food as well as alcoholic and non-alcoholic beverages.
 Yes! There are multiple single-occupancy gender neutral bathrooms
 next to the event space.
 
-# I'm not a JavaScript expert, am I the right audience for BrooklynJS?
+# I'm not a JavaScript expert, am I the right audience for CorridorJS?
 
 Yes, everyone of all skill levels is welcome. We try to have talks at
 all levels and even occasionally non-JS talks.
