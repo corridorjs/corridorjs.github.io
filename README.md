@@ -1,7 +1,7 @@
 CorridorJS
 ==========
 
-## Waterloo Regions newest JavaScript meetup##
+## Waterloo Region's newest JavaScript meetup##
 
 [CorridorJS]() is a monthly meeting of JavaScript developers which happens on the third Thursday of each month in the 
 upstairs event space at [Communitech](https://www.communitech.ca/), in the Tannery building in
